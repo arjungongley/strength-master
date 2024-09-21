@@ -10,22 +10,25 @@ const Footer = () => {
   Elevate your fitness experience with us, where expert guidance meets personalized care. Join a community dedicated to helping you reach your goals and feel your best every step of the way.
 </p>
 
-          <p>&copy; Rock Fitness Gym. All Rights Reserved</p>
+          <p>&copy; Strength Master. All Rights Reserved</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Address</h4>
-          <p className="my-5">Opposite SSdn Medical Store</p>
-          <p className="my-5">New Subhash Nagar</p>
-          <p>Ludhiana,Punjab 141007</p>
+          <p className="my-5">SCO-45, Sector-27,  </p>
+          <p className="my-5">Panchkula Extension,</p>
+          <p>Panchkula, Haryana 134112</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
   <h4 className="font-bold">Contact Us</h4>
   <p className="my-5">
-    <a href="tel:+919592801010" className="text-blue-600 hover:underline">+91 95928 01010</a>
+    <a href="tel:+917807971873" className="text-blue-600 hover:underline">+91 7807971873</a>
   </p>
   <p>
-    <a href="tel:+919888830913" className="text-blue-600 hover:underline">+91 98888 30913</a>
-  </p>
+  <a href="https://wa.me/917807971873?text=Hello,%20I'm%20looking%20for%20more%20information%20about%20your%20gym%20services" 
+    className="text-green-600 hover:underline">
+    Click to chat on WhatsApp
+  </a>
+</p>
 </div>
 
       </div>
